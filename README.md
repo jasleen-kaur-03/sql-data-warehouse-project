@@ -61,6 +61,12 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+## 🌟 About Me
+
+Hi! I'm **Jasleen Kaur**, an aspiring **Data Engineer** with a passion for Data Warehousing, SQL, ETL, and Data Modeling.
+
+I enjoy building real-world data projects, learning modern data engineering practices, and continuously improving my technical skills.
+
 
 
 
